@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpk5802&layout=compact)](https://github.com/hpk5802/github-readme-stats) 
 
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpk5802&show_icons=true&theme=dracula)
+![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpk5802&count_private=true&show_icons=true&theme=dracula)
