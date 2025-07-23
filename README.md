@@ -7,9 +7,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
-![Programmers Badge](https://raw.githubusercontent.com/hpk5802/programmers-badge/master/static/result.svg)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpk5802&layout=compact)](https://github.com/hpk5802/github-readme-stats) 
 
 ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpk5802&count_private=true&show_icons=true&theme=dracula)
